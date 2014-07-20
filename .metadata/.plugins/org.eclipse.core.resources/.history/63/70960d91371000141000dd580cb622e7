@@ -1,7 +1,0 @@
-package com.modele;
-
-import java.sql.Date;
-
-public class CourseAPied extends Activite{
-
-}

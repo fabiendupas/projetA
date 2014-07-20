@@ -1,8 +1,0 @@
-package com.modele;
-
-
-public class natation extends Activite{
-
-	public static int allureMoyenne;
-	
-}

@@ -1,7 +1,0 @@
-package com.modele.vertebre;
-
-import com.modele.Vertebre;
-
-public class Poisson extends Vertebre {
-
-}

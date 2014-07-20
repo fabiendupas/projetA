@@ -1,7 +1,0 @@
-package com.modele.espece.organisme;
-
-import com.modele.espece.Animal;
-
-public class Invertebre extends Animal{
-
-}

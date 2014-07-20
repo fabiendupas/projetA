@@ -1,9 +1,0 @@
-package com.modele.espece.organisme;
-
-import com.modele.espece.Animal;
-
-public class Vertebre extends Animal{
-	public static remuerVertebres() {
-		System.out.println("Remue vertebre");
-	}
-}

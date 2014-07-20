@@ -1,7 +1,0 @@
-package com.modele.invertebre;
-
-import com.modele.Vertebre;
-
-public class Mammifere extends Vertebre {
-
-}

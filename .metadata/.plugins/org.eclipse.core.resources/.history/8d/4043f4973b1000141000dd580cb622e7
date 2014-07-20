@@ -1,9 +1,0 @@
-package com.controller;
-
-public class Exercice1 {
-
-	public static void executer(){
-		Animal Bill = new Homme(true);
-	}
-	
-}

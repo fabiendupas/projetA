@@ -1,7 +1,0 @@
-package com.modele;
-
-import com.modele.espece.Animal;
-
-public class Vertebre extends Animal{
-
-}
