@@ -1,0 +1,8 @@
+package com.modele.espece.organisme.vertebre.mammifere;
+
+public class Homme {
+
+	public static void ecrire() {
+		System.out.println("Ecrire");
+	}
+}

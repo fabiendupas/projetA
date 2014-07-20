@@ -1,0 +1,13 @@
+package com.modele.espece.organisme;
+
+import com.modele.espece.Animal;
+
+public class Vertebre extends Animal{
+
+	private int nbrVertebres;
+	
+	public void remuerVertebres() {
+		System.out.println(this.getNom() + "Remue "+nbrVertebres+ "vertebre");
+	}
+	
+}

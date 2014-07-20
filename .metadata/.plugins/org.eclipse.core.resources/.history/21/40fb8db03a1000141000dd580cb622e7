@@ -1,0 +1,7 @@
+package com.modele.espece.oragnisme.vertebre;
+
+import com.modele.espece.organisme.Vertebre;
+
+public class Reptile extends Vertebre {
+
+}

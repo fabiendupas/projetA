@@ -1,0 +1,7 @@
+package com.modele;
+
+import com.modele.espece.Animal;
+
+public class Invertebre extends Animal{
+
+}

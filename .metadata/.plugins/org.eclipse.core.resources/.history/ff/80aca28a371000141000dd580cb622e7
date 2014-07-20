@@ -1,0 +1,11 @@
+package com.modele;
+
+import java.sql.Date;
+
+public class CourseAPied {
+
+	public static Date dateActivite;
+	public static Date dureeActivite;
+	
+	
+}

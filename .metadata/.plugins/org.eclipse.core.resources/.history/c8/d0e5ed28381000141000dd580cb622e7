@@ -1,0 +1,8 @@
+package com.modele;
+
+
+public class CourseAPied extends Activite{
+
+	public static int allureMoyenne;
+	
+}

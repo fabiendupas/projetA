@@ -1,0 +1,5 @@
+package com.modele.espece.organisme.vertebre.mammifere;
+
+public class Chat {
+
+}

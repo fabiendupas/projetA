@@ -1,0 +1,17 @@
+package com.controller;
+
+import org.junit.Test;
+
+import com.modele.espece.organisme.vertebre.mammifere.Homme;
+
+public class Exercice1 {
+
+	@Test
+	public void executer(){
+		Homme bill = new Homme("Bill", false);
+		bill.remuerVertebres();
+		bill.allaiter();
+		bill.ecrire();
+	}
+	
+}

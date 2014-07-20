@@ -1,0 +1,12 @@
+package com.controller;
+
+import com.modele.espece.Animal;
+import com.modele.espece.organisme.vertebre.mammifere.Homme;
+
+public class Exercice1 {
+
+	public static void executer(){
+		Animal Bill = new Homme(true);
+	}
+	
+}

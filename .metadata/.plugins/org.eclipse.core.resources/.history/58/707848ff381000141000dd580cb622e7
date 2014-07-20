@@ -1,0 +1,24 @@
+package com.enumeration;
+
+public enum CodeTypeEvenement {
+
+	SPORT("sport"),
+	LOISIR("loisir"),
+	COURSE("Course")
+	
+	private String typeNatation;
+	
+	CodeTypeEvenement(String type) {
+		typeNatation=type;
+	}
+
+	public String getTypeNatation() {
+		return typeNatation;
+	}
+
+	public void setTypeNatation(String typeNatation) {
+		this.typeNatation = typeNatation;
+	}
+
+	
+}

@@ -1,0 +1,7 @@
+package com.modele.invertebre;
+
+import com.modele.Vertebre;
+
+public class Escargot extends Vertebre {
+
+}

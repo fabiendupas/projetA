@@ -1,0 +1,8 @@
+package com.modele;
+
+
+public class cyclisme extends Activite{
+
+	public static int vitesseMoyenne;
+	
+}
